@@ -1,7 +1,7 @@
 # Online Banking System
 The objective of this project was to develop a secure and scalable online banking system that provides comprehensive banking functionalities. The system was designed to support various operations such as account management, fund transfers, transaction tracking, and user authentication, all while ensuring high security and performance standards.
 
-#Technologies and Tools Used:
+*Technologies and Tools Used:
                * Java: Core programming language for backend development.
                * Spring Boot: Framework for building and running the application, simplifying dependency management and configuration.
                *  Hibernate: ORM tool for database interactions, simplifying data access and manipulation.
